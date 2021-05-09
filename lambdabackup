@@ -80,4 +80,4 @@ const PARAMS_TO_DELETE = {
 
 
 30 12 * * ? * 
-// which means it will run at 12:30:00 GMT daily. PUT IN A CLOUDWATCH
+// which means it will run at 12:30:00 GMT daily. ABOVE CRON EXPRESSION PUT IN A CLOUDWATCH
